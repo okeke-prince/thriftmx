@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(withoutLayout)/login/page": "app/(withoutLayout)/login/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/checkout/route": "app/api/checkout/route.js",
+  "/api/products/[productId]/route": "app/api/products/[productId]/route.js",
+  "/api/auth/signup/route": "app/api/auth/signup/route.js",
+  "/api/customer/route": "app/api/customer/route.js",
+  "/api/products/product-type/route": "app/api/products/product-type/route.js",
+  "/api/products/route": "app/api/products/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(withLayout)/products/edit/[productId]/page": "app/(withLayout)/products/edit/[productId]/page.js",
+  "/(withLayout)/products/add/page": "app/(withLayout)/products/add/page.js",
+  "/(withLayout)/page": "app/(withLayout)/page.js",
+  "/(withLayout)/product-type/add/page": "app/(withLayout)/product-type/add/page.js",
+  "/(withLayout)/users/page": "app/(withLayout)/users/page.js",
+  "/(withLayout)/users/add/page": "app/(withLayout)/users/add/page.js",
+  "/(withLayout)/users/edit/[userId]/page": "app/(withLayout)/users/edit/[userId]/page.js",
+  "/(withLayout)/buyers/page": "app/(withLayout)/buyers/page.js",
+  "/(withLayout)/products/page": "app/(withLayout)/products/page.js",
+  "/(withLayout)/product-type/edit/[productTypeId]/page": "app/(withLayout)/product-type/edit/[productTypeId]/page.js",
+  "/(withLayout)/product-type/page": "app/(withLayout)/product-type/page.js"
+}
